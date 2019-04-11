@@ -1,8 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 /**  Basic Page CSS **/
+@import "~bootstrap/dist/css/bootstrap.css";
 body {
     font-weight: 200;
-    background-color: #337ab7;
+    background-color: #236dad;
   }
   
   header a,
