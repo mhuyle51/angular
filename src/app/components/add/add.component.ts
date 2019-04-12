@@ -11,10 +11,10 @@ export class AddComponent implements OnInit {
     this.showForm = !this.showForm;
   }
 
-  constructor() { 
+  constructor() {
     this.showForm = true;
   }
-  
+
   ngOnInit() {
   }
 
